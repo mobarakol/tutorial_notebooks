@@ -1,6 +1,6 @@
 # tutorial_notebooks
 
-To understand DL model architecture, [training and testing process for image segmentation] (https://github.com/mobarakol/tutorial_notebooks/blob/main/UNet_Model_BraTS.ipynb)
+To understand DL model architecture, [training and testing process for image segmentation](https://github.com/mobarakol/tutorial_notebooks/blob/main/UNet_Model_BraTS.ipynb)
  
 To understand Training and testing for DL image classification using network architecture from lib: https://github.com/mobarakol/tutorial_notebooks/blob/main/CIFAR_10H_CNN.ipynb
  
