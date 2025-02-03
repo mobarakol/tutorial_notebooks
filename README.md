@@ -1,4 +1,5 @@
 # tutorial_notebooks
+To understand DL network for classification: https://github.com/mobarakol/tutorial_notebooks/blob/main/cnn_lenet5_cifar10.ipynb
 
 To understand DL model architecture, training and testing process for image segmentation: https://github.com/mobarakol/tutorial_notebooks/blob/main/UNet_Model_BraTS.ipynb
  
